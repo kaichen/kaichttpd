@@ -1,0 +1,13 @@
+= kaichttpd
+
+A sample web server. Now just can return the local static html file.
+
+= build and run
+
+./start_server.sh
+
+= license
+
+By the MIT License.
+
+(c) Kai Chen <chenk85@gmail.com>

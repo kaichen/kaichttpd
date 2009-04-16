@@ -1,0 +1,10 @@
+Todo
+[ ] conect pool
+[ ] mult process
+[ ] doc dir spec from command-line argument
+[ ] port spec from command-line argument
+
+Done
+[x] network connect
+[x] HTTP request analysis
+[x] HTTP response code generate
